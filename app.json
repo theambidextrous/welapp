@@ -1,12 +1,30 @@
 {
-  "name": "welapp",
-  "displayName": "welapp",
+  "name": "WELearning",
+  "displayName": "WELearning",
   "expo": {
-    "name": "welapp",
-    "slug": "welapp",
+    "name": "WELearning",
+    "slug": "WELearning",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "orientation": "portrait",
+    "icon": "./app/assets/wel-logo.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.womenempowermentlink.welapp",
+      "googleServicesFile": "/Users/softbucketio/projects/welapp/android/app/google-services.json",
+      "versionCode": 1,
+      "useNextNotificationsApi": true
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "ios": {
+      "requireFullScreen": true
+    },
+    "assetBundlePatterns": ["**/*"],
+    "description": ""
   }
 }

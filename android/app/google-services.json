@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730394202254",
+    "firebase_url": "https://welearning-8df05.firebaseio.com",
+    "project_id": "welearning-8df05",
+    "storage_bucket": "welearning-8df05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730394202254:android:9be7a25dda325d31eab9df",
+        "android_client_info": {
+          "package_name": "com.womenempowermentlink.welapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730394202254-dlpo3asc7rg5cpvn18t33ukapb2idaog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_OBvQL-OgwMIHnqapQS8kCNnJ9zpgatQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730394202254-dlpo3asc7rg5cpvn18t33ukapb2idaog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
